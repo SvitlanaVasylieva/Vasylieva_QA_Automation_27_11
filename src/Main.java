@@ -5,6 +5,9 @@ public class Main {
 
         System.out.println("QA Automation the Best");
         System.out.println("our work with Git");
+
+
+        System.out.println("Third commit");
     }
 
 }
